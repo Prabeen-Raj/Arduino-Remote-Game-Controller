@@ -4,7 +4,7 @@
    the serial Monitor
 3) Now Open Controller.py Before you run the progrom Enter the arduino port
    number and enter the hex values of buttons In the place where I mentioned 
-   in #comments
+   in #comments (Install the packages Before Executing)
 4) Now your controller is ready to play
 5) Before executing the python program close the arduino serial monitor or else
    it will throw you error
