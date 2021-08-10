@@ -1,4 +1,4 @@
-1) First Upload the Arduino Code 
+1) First Upload the Arduino Code Before Uploading install IR remote libary
 2) Open the Serial Monitor Use Any Remote (That emits IR signal) 
    Press the remote button the following hex values will be genereted in
    the serial Monitor
